@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi there, I'm Fabián Muñoz
 
-<!--
-**Assassins1432/Assassins1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Santiago, Chile  
+📧 Fabian5000@live.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/fabián-muñoz-585255256)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Computer Engineering and Informatics student** in my final year, with a solid foundation in various technologies and methodologies. I have hands-on experience in both agile and traditional project management and am dedicated to continuously learning and improving my skills.
+
+## 🚀 Skills
+
+- **Languages & Technologies:**
+  - MongoDB, MariaDB
+  - C++, C
+  - Python, HTML, CSS, JavaScript
+  - Node.js, Express.js
+  - Networking IT & IoT
+  - GNS3, Cisco Packet Tracer
+
+- **Specializations:**
+  - Data Analysis, Functional Analysis
+  - Project Management
+  - User Experience Design
+  - Quality Assurance (QA)
+  - Agile and Traditional Methodologies
+  - UML, Flow and Process Diagrams
+
+- **Tools:**
+  - Excel
+  - Microsoft Project, GNS3
+  - Cisco Packet Tracer, Canva, Visio
+  - Oracle VM, VSC, WebStorm, Lucidchart
+  - Vercel
+
+## 📚 Certifications & Online Courses
+
+- **Introduction to Cybersecurity**, Cisco Networking Academy (Dec. 2023)
+
+## 🌱 Currently Learning
+
+I'm currently diving into **Flutter** development to enhance my skills in mobile application development.
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fabián-muñoz-585255256) to follow my journey and see my latest projects!
