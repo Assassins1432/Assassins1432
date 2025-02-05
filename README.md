@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering and Informatics student** in my final year, with a solid foundation in various technologies and methodologies. I have hands-on experience in both agile and traditional project management and am dedicated to continuously learning and improving my skills.
+I'm a **Computer Engineering and Informatics** with a solid foundation in various technologies and methodologies. I have hands-on experience in both agile and traditional project management and am dedicated to continuously learning and improving my skills.
 
 ## 🚀 Skills
 
