@@ -2,7 +2,7 @@
 
 📍 Santiago, Chile  
 📧 Fabian5000@live.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/fabián-muñoz-585255256)
+🔗 [LinkedIn](https://www.linkedin.com/in/fabi%C3%A1n-omar-mu%C3%B1oz-parra-585255256/)
 
 ## 👨‍💻 About Me
 
@@ -43,4 +43,4 @@ I'm currently diving into **Flutter** development to enhance my skills in mobile
 
 ---
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/fabián-omar-muñoz-parra-585255256) to follow my journey and see my latest projects!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fabi%C3%A1n-omar-mu%C3%B1oz-parra-585255256/) to follow my journey and see my latest projects!
