@@ -43,4 +43,4 @@ I'm currently diving into **Flutter** development to enhance my skills in mobile
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fabián-muñoz-585255256) to follow my journey and see my latest projects!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/fabián-omar-muñoz-parra-585255256) to follow my journey and see my latest projects!
