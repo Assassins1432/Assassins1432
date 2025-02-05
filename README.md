@@ -14,7 +14,7 @@ I'm a **Computer Engineering and Informatics student** in my final year, with a 
   - MongoDB, MariaDB
   - C++, C
   - Python, HTML, CSS, JavaScript
-  - Node.js, Express.js
+  - Node.js, Express.js, Next.js, Nest.js
   - Networking IT & IoT
   - GNS3, Cisco Packet Tracer
 
